@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9CD26A941C70E25500FB6282 /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD26A931C70E25500FB6282 /* Internet.swift */; };
 		9CFDDC2E1C6EA31200DF5E3F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CFDDC2D1C6EA31200DF5E3F /* AppDelegate.swift */; };
 		9CFDDC301C6EA31200DF5E3F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CFDDC2F1C6EA31200DF5E3F /* ViewController.swift */; };
 		9CFDDC331C6EA31200DF5E3F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CFDDC311C6EA31200DF5E3F /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9CD26A931C70E25500FB6282 /* Internet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Internet.swift; sourceTree = "<group>"; };
 		9CFDDC2A1C6EA31200DF5E3F /* Busca_ISBN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Busca_ISBN.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CFDDC2D1C6EA31200DF5E3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CFDDC2F1C6EA31200DF5E3F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				9CFDDC2D1C6EA31200DF5E3F /* AppDelegate.swift */,
 				9CFDDC2F1C6EA31200DF5E3F /* ViewController.swift */,
+				9CD26A931C70E25500FB6282 /* Internet.swift */,
 				9CFDDC311C6EA31200DF5E3F /* Main.storyboard */,
 				9CFDDC341C6EA31200DF5E3F /* Assets.xcassets */,
 				9CFDDC361C6EA31200DF5E3F /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CD26A941C70E25500FB6282 /* Internet.swift in Sources */,
 				9CFDDC301C6EA31200DF5E3F /* ViewController.swift in Sources */,
 				9CFDDC2E1C6EA31200DF5E3F /* AppDelegate.swift in Sources */,
 			);
@@ -287,6 +291,7 @@
 				9CFDDC3E1C6EA31200DF5E3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
