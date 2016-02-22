@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9CD26A941C70E25500FB6282 /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD26A931C70E25500FB6282 /* Internet.swift */; };
+		9CDE3F991C7AA88E00603DEF /* portada.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CDE3F981C7AA88E00603DEF /* portada.png */; };
 		9CFDDC2E1C6EA31200DF5E3F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CFDDC2D1C6EA31200DF5E3F /* AppDelegate.swift */; };
 		9CFDDC301C6EA31200DF5E3F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CFDDC2F1C6EA31200DF5E3F /* ViewController.swift */; };
 		9CFDDC331C6EA31200DF5E3F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CFDDC311C6EA31200DF5E3F /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		9CD26A931C70E25500FB6282 /* Internet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Internet.swift; sourceTree = "<group>"; };
+		9CDE3F981C7AA88E00603DEF /* portada.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = portada.png; sourceTree = "<group>"; };
 		9CFDDC2A1C6EA31200DF5E3F /* Busca_ISBN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Busca_ISBN.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CFDDC2D1C6EA31200DF5E3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CFDDC2F1C6EA31200DF5E3F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				9CFDDC2D1C6EA31200DF5E3F /* AppDelegate.swift */,
 				9CFDDC2F1C6EA31200DF5E3F /* ViewController.swift */,
 				9CD26A931C70E25500FB6282 /* Internet.swift */,
+				9CDE3F981C7AA88E00603DEF /* portada.png */,
 				9CFDDC311C6EA31200DF5E3F /* Main.storyboard */,
 				9CFDDC341C6EA31200DF5E3F /* Assets.xcassets */,
 				9CFDDC361C6EA31200DF5E3F /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9CFDDC381C6EA31200DF5E3F /* LaunchScreen.storyboard in Resources */,
+				9CDE3F991C7AA88E00603DEF /* portada.png in Resources */,
 				9CFDDC351C6EA31200DF5E3F /* Assets.xcassets in Resources */,
 				9CFDDC331C6EA31200DF5E3F /* Main.storyboard in Resources */,
 			);
