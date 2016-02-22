@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
-    
+     
     //let texto =  NSString(data: datos!, encoding: NSUTF8StringEncoding)
     func ejecutarPeticion()  {
  
